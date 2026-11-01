@@ -1,0 +1,34 @@
+{
+  "offroad_first_exit_side": {
+    "both:left": 4,
+    "both:right": 42,
+    "trace_only:left": 254,
+    "trace_only:right": 16
+  },
+  "sim_only_collisions": [
+    {
+      "episode": "ridge_state_clean_d1|md_CSCC-401|0",
+      "outcome": "OFFROAD"
+    },
+    {
+      "episode": "ridge_state_noisy_d1|md_CSCC-401|2",
+      "outcome": "TIMEOUT"
+    },
+    {
+      "episode": "ridge_hist_noisy_d1|md_CSCC-401|1",
+      "outcome": "TIMEOUT"
+    },
+    {
+      "episode": "ridge_state_noisy_d1|md_CSCC-408|1",
+      "outcome": "TIMEOUT"
+    },
+    {
+      "episode": "ridge_state_noisy_d2|md_CSCC-408|0",
+      "outcome": "TIMEOUT"
+    },
+    {
+      "episode": "ridge_state_noisy_d2|md_CSCC-408|1",
+      "outcome": "TIMEOUT"
+    }
+  ]
+}

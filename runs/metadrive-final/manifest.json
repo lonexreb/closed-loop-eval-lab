@@ -1,0 +1,72 @@
+{
+  "artifacts": [
+    {
+      "path": "episodes.jsonl.gz",
+      "sha256": "ccb47a8e75a699016fe3f85db12934eebae3be4440828a3683cd1e4cafa93aeb"
+    },
+    {
+      "path": "episodes_no_disturbance.jsonl.gz",
+      "sha256": "2198b4c680fd8e10e0f5fc310c928d980b029f880c09b364491212239a7841eb"
+    },
+    {
+      "path": "model_selection.json",
+      "sha256": "eac46be4e3d706954a95d79e701e4fb276c698aba31ee0fb2ea0df58a346f88e"
+    },
+    {
+      "path": "open_loop.jsonl.gz",
+      "sha256": "047812ba5b731be5912097c18a663e06cc05d6e224f88d4813b561085a58d15a"
+    },
+    {
+      "path": "stdout.log",
+      "sha256": "48e5cd3830e239171a6696a42df4dff1d7627d076ed41c93438827c3996a44d9"
+    },
+    {
+      "path": "traces.npz",
+      "sha256": "7fa9cdf14e748f2e91ed2875ac2954f797e3208ea277121c77d529bab38824fa"
+    }
+  ],
+  "backend": "metadrive-0.4.3",
+  "code_revision": "354332d669281d8e2335582c34d1fa7a3700ea7a",
+  "command": [
+    "src/eval_lab/experiment.py",
+    "--world",
+    "metadrive",
+    "--stage",
+    "final"
+  ],
+  "config_sha256": "472e3dc54737d9b23c4ea107444aa2098f33759c6fd7649e363f7755de0fa5cb",
+  "data_sha256": "b0a9b7debecaad0f8d3517822b43329f6d11ed942a6acf9537ba6c1609afff7b",
+  "eval_split": "test",
+  "exit_code": 0,
+  "finished_at": "2026-10-31T23:57:35+00:00",
+  "hardware": {
+    "accelerator": "none used; CPU only",
+    "cpu_count": 18,
+    "machine": "arm64",
+    "python": "3.11.15",
+    "system": "Darwin"
+  },
+  "kind": "study",
+  "limitations": [
+    "Toy linear and quadratic ridge policies, not a production planner.",
+    "A simulator result is not a real-world or fleet safety claim.",
+    "kinematic_fixture is a toy fixture; metadrive results are one simulator only."
+  ],
+  "lockfile_sha256": "d4d511b8b7af9cd133c60722cf26e29e677274d31ad5dc89de6b741cee6496d5",
+  "run_id": "metadrive-final",
+  "schema_version": "1.0",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "split_id": "split-ba085e478094",
+  "started_at": "2026-10-31T23:53:07+00:00",
+  "status": "SUCCEEDED",
+  "versions": {
+    "metadrive-simulator": "0.4.3",
+    "numpy": "2.4.6",
+    "panda3d": "1.10.13",
+    "scipy": "1.17.1"
+  }
+}

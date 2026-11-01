@@ -1,0 +1,46 @@
+killed  M2 dirty held-out run allowed
+killed  M2 gap reading ignores interval
+killed  M2 stale lead sees the present
+killed  M2 short gap inverted
+killed  M2 family seed ranges overlap
+killed  M2 divergence off by one test
+killed  M2 expert tracker loses speed loop
+killed  frame check removed
+killed  mask ignored inside horizon
+killed  truncated truth accepted
+killed  timestamp alignment ignored
+killed  disordered time accepted
+killed  FDE uses first sample
+killed  unknown actor treated as clear
+killed  unknown actor can complete
+killed  bad ego telemetry passes
+killed  touching boxes collide
+killed  second box axes skipped
+killed  off-road boundary inverted
+killed  late goal counts
+killed  safe ignores collision
+killed  denominator drops failures
+killed  zero km gives zero rate
+killed  worst case ignores unknown
+killed  bootstrap ignores clusters
+killed  zero events claims zero
+killed  paired diff unpaired
+killed  verdict sign flipped
+killed  noise differs per reset
+killed  steer rate unlimited
+killed  speed may go negative
+killed  no route runout
+killed  lead never resumes
+killed  crash vanishes
+killed  no warm start
+killed  label from wrong frame
+killed  family in two splits allowed
+killed  mining may read test
+killed  final overwrites
+killed  final allowed on dirty tree
+killed  stale manifest accepted
+killed  ridge shrinks intercept
+killed  map seeds shared across families
+killed  rank bootstrap unpaired
+killed  world/ego rotation wrong
+45/45 mutants killed

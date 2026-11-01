@@ -1,0 +1,56 @@
+{
+  "artifacts": [
+    {
+      "path": "mining_results.json",
+      "sha256": "f6aab0b4f12f4e0fa940ff1b0c39a7e84121f0569068b69fc6cfc1616439f48e"
+    },
+    {
+      "path": "outcomes.jsonl.gz",
+      "sha256": "41247a66a8f9b2c6faf09e4394d0f71209ecddab48d4bec35f6145bf3c0b97f8"
+    },
+    {
+      "path": "regression_pack.json",
+      "sha256": "122b11c446cdff9fc9a380121db2bd262a281c78549ea3132ce6b8cd77d55e49"
+    }
+  ],
+  "backend": "kinematic_fixture",
+  "code_revision": "789b8b64a9b4deaced7f4c582e9775dd4da15c7b",
+  "command": [
+    "src/eval_lab/m2.py",
+    "--stage",
+    "holdout"
+  ],
+  "config_sha256": "8628735e235df2d27a1da03df76ef46e26d21c78b1ee7bc961434b403e3bd6d1",
+  "data_sha256": "babfb05d68b139a8247291952c9c7d5e7ca40d55d4fa3f4271f347161a821433",
+  "eval_split": "holdout",
+  "exit_code": 0,
+  "finished_at": "2026-11-01T22:29:05+00:00",
+  "hardware": {
+    "accelerator": "none used; CPU only",
+    "cpu_count": 18,
+    "machine": "arm64",
+    "python": "3.11.15",
+    "system": "Darwin"
+  },
+  "kind": "study",
+  "limitations": [
+    "Regressions are hand-built, on the toy fixture only."
+  ],
+  "lockfile_sha256": "d4d511b8b7af9cd133c60722cf26e29e677274d31ad5dc89de6b741cee6496d5",
+  "run_id": "m2-mining",
+  "schema_version": "1.0",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "split_id": "split-c6b76550854e",
+  "started_at": "2026-11-01T22:27:24+00:00",
+  "status": "SUCCEEDED",
+  "versions": {
+    "metadrive-simulator": "0.4.3",
+    "numpy": "2.4.6",
+    "panda3d": "1.10.13",
+    "scipy": "1.17.1"
+  }
+}

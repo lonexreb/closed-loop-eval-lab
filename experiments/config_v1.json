@@ -1,0 +1,12 @@
+{
+  "kinematic": {
+    "per_family": 30, "manifest_seed": 20261031,
+    "train_seeds": [0], "eval_seeds": [0, 1, 2, 3, 4],
+    "noisy_disturbance": 2.5, "lambdas": [0.0001, 0.01, 1.0], "workers": 2, "max_episode_s": 120
+  },
+  "metadrive": {
+    "per_family": 12, "train_per_family": 12,
+    "train_seeds": [0], "eval_seeds": [0, 1, 2],
+    "noisy_disturbance": 2.5, "lambdas": [0.0001, 0.01, 1.0], "workers": 2, "max_episode_s": 120
+  }
+}

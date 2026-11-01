@@ -1,0 +1,84 @@
+{
+  "artifacts": [
+    {
+      "path": "episodes.jsonl.gz",
+      "sha256": "0e7296d828811d9764d0d0c740423d3c333bfa9b07eb70ca80cfa6c8dcb13555"
+    },
+    {
+      "path": "episodes_expert_tracker.jsonl.gz",
+      "sha256": "62f8b74d4faf6106c3c6320d523db86bee66d6708f6fefbece4ae139e9dc9627"
+    },
+    {
+      "path": "episodes_no_disturbance.jsonl.gz",
+      "sha256": "c7dafe3f15afb9628e3b85024e08de1132a6b23a157159639928ba9ad455749f"
+    },
+    {
+      "path": "model_selection.json",
+      "sha256": "293834fa35d47fe3698cc97114e375856f3fa0e0b53dbf632084bf93d045a120"
+    },
+    {
+      "path": "open_loop.jsonl.gz",
+      "sha256": "66db92a8f39fa92f0d2b2afcb61183869a6a43d46b312fae4cc21e592b0f7ee4"
+    },
+    {
+      "path": "open_loop_disturbed.jsonl.gz",
+      "sha256": "bdcaf429b34dfe53b856354a1a57645985bd49b97150209dbb965956fde0c302"
+    },
+    {
+      "path": "s5_divergence.json",
+      "sha256": "62579b058f9f6beb898dfa5fab20837e5c60e15428b2240ef23e08db56b32b92"
+    },
+    {
+      "path": "stdout.log",
+      "sha256": "060ad253dc160f7236457062b9f4038ac9594d1cf31082d4dd6fe30744b000ee"
+    },
+    {
+      "path": "traces.npz",
+      "sha256": "536ac30d2fb6b42edaa5155c6bdf746d41be60baf835c6be76e15fae71da1179"
+    }
+  ],
+  "backend": "metadrive-0.4.3",
+  "code_revision": "789b8b64a9b4deaced7f4c582e9775dd4da15c7b",
+  "command": [
+    "src/eval_lab/experiment.py",
+    "--world",
+    "metadrive",
+    "--stage",
+    "holdout"
+  ],
+  "config_sha256": "8628735e235df2d27a1da03df76ef46e26d21c78b1ee7bc961434b403e3bd6d1",
+  "data_sha256": "0e93486a96bdacc5066e72a676e3aedf095ac234d1463c44dd57f13b93fddac5",
+  "eval_split": "holdout",
+  "exit_code": 0,
+  "finished_at": "2026-11-01T22:27:23+00:00",
+  "hardware": {
+    "accelerator": "none used; CPU only",
+    "cpu_count": 18,
+    "machine": "arm64",
+    "python": "3.11.15",
+    "system": "Darwin"
+  },
+  "kind": "study",
+  "limitations": [
+    "Toy linear and quadratic ridge policies, not a production planner.",
+    "A simulator result is not a real-world or fleet safety claim.",
+    "kinematic_fixture is a toy fixture; metadrive results are one simulator only."
+  ],
+  "lockfile_sha256": "d4d511b8b7af9cd133c60722cf26e29e677274d31ad5dc89de6b741cee6496d5",
+  "run_id": "metadrive-holdout",
+  "schema_version": "1.0",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "split_id": "split-722b43a0700f",
+  "started_at": "2026-11-01T22:13:05+00:00",
+  "status": "SUCCEEDED",
+  "versions": {
+    "metadrive-simulator": "0.4.3",
+    "numpy": "2.4.6",
+    "panda3d": "1.10.13",
+    "scipy": "1.17.1"
+  }
+}

@@ -1,0 +1,13 @@
+metadrive 0.4.3
+steps 80 sec 52.57 steps/s 2
+same seed identical False maxdiff 4.547473508864641e-13
+diff seed differs True
+info keys ['acceleration', 'action', 'arrive_dest', 'cost', 'crash', 'crash_building', 'crash_human', 'crash_object', 'crash_sidewalk', 'crash_vehicle', 'env_seed', 'episode_energy', 'episode_length', 'episode_reward', 'max_step', 'navigation_command', 'navigation_forward', 'navigation_left', 'navigation_right', 'out_of_road', 'overtake_vehicle_num', 'policy', 'raw_action', 'route_completion', 'steering', 'step_energy', 'step_reward', 'velocity']
+agent attrs ['max_steering', 'position', 'speed', 'speed_km_h', 'heading_theta', 'velocity', 'on_lane', 'crash_vehicle', 'crash_object']
+speed 11.917144775392746 kmh 42.901721191413884 max_steer 40.0 L 4.515 W 1.852 wheelbase? 1.05234 1.4166
+nav NodeNetworkNavigation checkpoints 7 ref lanes 3 lane w 3.5 total 361.1294432602513
+nav attrs ['CHECK_POINT_INFO_DIM', 'CKPT_UPDATE_RANGE', 'FORCE_CALCULATE', 'LINE_TO_DEST_HEIGHT', 'MARK_HEIGHT', 'MIN_ALPHA', 'NAVI_POINT_DIST', 'NUM_WAY_POINT', 'PRE_NOTIFY_DIST', 'attach_to_world', 'auto_assign_task', 'checkpoints', 'current_lane', 'current_ref_lanes', 'current_road', 'destroy', 'detach_from_world', 'engine', 'final_lane', 'final_road', 'get_checkpoints', 'get_current_lane_num', 'get_current_lane_width', 'get_current_lateral_range', 'get_navi_info', 'get_navigation_info_dim', 'get_state', 'map', 'name', 'navi_arrow_dir', 'navi_mark_color', 'next_ref_lanes', 'next_road', 'origin', 'reset', 'route_completion', 'set_force_calculate_lane_index', 'set_route', 'spawn_road', 'total_length', 'travelled_length', 'update_localization', 'vehicle_config']
+lane StraightLane 58.12995910644531 [55.  7.] 0.0 ['local_coordinates', 'need_lane_localization']
+traffic 9 objects 9
+dt 0.1
+SMOKE_OK

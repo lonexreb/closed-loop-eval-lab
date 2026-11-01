@@ -1,0 +1,48 @@
+{
+  "artifacts": [
+    {
+      "path": "validation.json",
+      "sha256": "eb89de1422d5760fb56c3d5dab31b524770e29c23431f9be7c61cd60e723c736"
+    }
+  ],
+  "backend": "kinematic_fixture",
+  "code_revision": "34e97d3a3775cb954e1bc1fda103115906bc84a2+dirty.33965f861b61",
+  "command": [
+    "src/eval_lab/m2.py",
+    "--stage",
+    "validate"
+  ],
+  "config_sha256": "8628735e235df2d27a1da03df76ef46e26d21c78b1ee7bc961434b403e3bd6d1",
+  "data_sha256": "990aa724c881dcb3d1f580b9a2e4b80d5ea21e60048e717f3fe4ee6ac3a330f1",
+  "eval_split": "dev",
+  "exit_code": 0,
+  "finished_at": "2026-11-01T22:09:30+00:00",
+  "hardware": {
+    "accelerator": "none used; CPU only",
+    "cpu_count": 18,
+    "machine": "arm64",
+    "python": "3.11.15",
+    "system": "Darwin"
+  },
+  "kind": "study",
+  "limitations": [
+    "Regressions are hand-built, on the toy fixture only."
+  ],
+  "lockfile_sha256": "d4d511b8b7af9cd133c60722cf26e29e677274d31ad5dc89de6b741cee6496d5",
+  "run_id": "m2-validation",
+  "schema_version": "1.0",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "split_id": "split-009146a0aef3",
+  "started_at": "2026-11-01T22:09:08+00:00",
+  "status": "SUCCEEDED",
+  "versions": {
+    "metadrive-simulator": "0.4.3",
+    "numpy": "2.4.6",
+    "panda3d": "1.10.13",
+    "scipy": "1.17.1"
+  }
+}

@@ -1,0 +1,8 @@
+# Check log. Commit 97d1482b88a1422bae05214bebbf90f1f3d993c3. Fresh clone from GitHub, frozen lockfile.
+pytest tests: 103 passed, exit 0
+eval_lab.report regenerated: byte-identical to committed reports/pilot.md, cmp exit 0
+eval_lab.analytic: 14/14
+ruff check, mypy: clean in working copy
+mutation_check: 36 of 38 killed in the full run; the other 2 were stale patterns, updated, then 2 of 2 killed
+manifests valid against schema: 10 at validation, all exit 0
+GitHub Actions: none. Token lacks workflow scope, so CI state is NOT OBSERVED

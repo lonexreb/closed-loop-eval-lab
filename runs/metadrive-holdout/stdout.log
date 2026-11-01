@@ -1,0 +1,3 @@
+metadrive holdout: train=24 dev=12 eval=96
+closed loop: 3456 episodes in 453.2s
+S5: 1152 episodes in 163.1s

@@ -1,0 +1,56 @@
+{
+  "kinematic_expert_safe": {
+    "chicane": 1.0,
+    "close_cut_in": 0.944,
+    "curve_cut_in": 0.944,
+    "hairpin": 1.0,
+    "narrow_lead_brake": 1.0,
+    "slow_lead_curve": 1.0,
+    "wide_cruise": 1.0,
+    "wide_gentle": 1.0
+  },
+  "metadrive_expert_safe": {
+    "md_OCC": 1.0,
+    "md_OCO": 0.833,
+    "md_OXC": 1.0,
+    "md_OCS": 1.0,
+    "md_OTC": 1.0,
+    "md_XCC": 1.0,
+    "md_RCC": 1.0,
+    "md_XTC": 1.0
+  },
+  "metadrive_overlap": {
+    "md_OCC": {
+      "mean": 0.237,
+      "max": 0.66
+    },
+    "md_OCO": {
+      "mean": 0.24,
+      "max": 0.36
+    },
+    "md_OXC": {
+      "mean": 0.242,
+      "max": 0.36
+    },
+    "md_OCS": {
+      "mean": 0.345,
+      "max": 0.737
+    },
+    "md_OTC": {
+      "mean": 0.266,
+      "max": 0.496
+    },
+    "md_XCC": {
+      "mean": 0.339,
+      "max": 0.601
+    },
+    "md_RCC": {
+      "mean": 0.384,
+      "max": 0.533
+    },
+    "md_XTC": {
+      "mean": 0.33,
+      "max": 0.656
+    }
+  }
+}

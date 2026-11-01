@@ -1,0 +1,5 @@
+kinematic dev: train=90 dev=60 eval=60 split=dev
+fit 8 models on 15401 clean rows in 9.9s
+open loop: 720 rows in 3.9s
+closed loop: 3600 episodes in 17.9s
+mechanism control: 720 episodes in 3.6s

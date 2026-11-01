@@ -1,0 +1,92 @@
+{
+  "reg_blind_on_curve": {
+    "diff": 0.0,
+    "hi": 0.0,
+    "lo": 0.0,
+    "verdict": "INCONCLUSIVE"
+  },
+  "reg_faster_limit_2x": {
+    "diff": 0.0,
+    "hi": 0.0,
+    "lo": 0.0,
+    "verdict": "INCONCLUSIVE"
+  },
+  "reg_ignores_lead": {
+    "diff": -0.5,
+    "hi": -0.38333333333333336,
+    "lo": -0.6333333333333333,
+    "verdict": "REGRESSED"
+  },
+  "reg_offset_1.5": {
+    "diff": -0.005555555555555555,
+    "hi": 0.0,
+    "lo": -0.016666666666666666,
+    "verdict": "INCONCLUSIVE"
+  },
+  "reg_offset_2.0": {
+    "diff": -0.08888888888888888,
+    "hi": -0.027777777777777776,
+    "lo": -0.1722222222222222,
+    "verdict": "REGRESSED"
+  },
+  "reg_offset_2.5": {
+    "diff": -0.7,
+    "hi": -0.5833333333333334,
+    "lo": -0.8056944444444443,
+    "verdict": "REGRESSED"
+  },
+  "reg_short_gap_0.0": {
+    "diff": -0.4888888888888889,
+    "hi": -0.36666666666666664,
+    "lo": -0.611111111111111,
+    "verdict": "REGRESSED"
+  },
+  "reg_short_gap_0.1": {
+    "diff": -0.18333333333333332,
+    "hi": -0.09444444444444446,
+    "lo": -0.27777777777777773,
+    "verdict": "REGRESSED"
+  },
+  "reg_stale_lead_1.2s": {
+    "diff": 0.0,
+    "hi": 0.0,
+    "lo": 0.0,
+    "verdict": "INCONCLUSIVE"
+  },
+  "reg_stale_lead_1.5s": {
+    "diff": -0.03888888888888888,
+    "hi": -0.005555555555555555,
+    "lo": -0.08333333333333333,
+    "verdict": "REGRESSED"
+  },
+  "reg_stale_lead_2.0s": {
+    "diff": -0.3111111111111111,
+    "hi": -0.2,
+    "lo": -0.4222222222222222,
+    "verdict": "REGRESSED"
+  },
+  "reg_stale_pose_0.2s": {
+    "diff": 0.0,
+    "hi": 0.0,
+    "lo": 0.0,
+    "verdict": "INCONCLUSIVE"
+  },
+  "reg_stale_pose_0.3s": {
+    "diff": -0.016666666666666666,
+    "hi": 0.0,
+    "lo": -0.03888888888888888,
+    "verdict": "INCONCLUSIVE"
+  },
+  "reg_weave_1.0": {
+    "diff": 0.0,
+    "hi": 0.0,
+    "lo": 0.0,
+    "verdict": "INCONCLUSIVE"
+  },
+  "reg_weave_2.0": {
+    "diff": -0.08333333333333331,
+    "hi": -0.027777777777777776,
+    "lo": -0.15,
+    "verdict": "REGRESSED"
+  }
+}

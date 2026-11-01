@@ -1,0 +1,2139 @@
+{
+ "mined-8": [
+  {
+   "ids": [
+    "cut_in-002",
+    "curve_lead_brake-028",
+    "cut_in-027",
+    "curve_lead_brake-002",
+    "cut_in-023",
+    "curve_lead_brake-027",
+    "curve_lead_brake-020",
+    "curve_lead_brake-006"
+   ],
+   "lineage": {
+    "cut_in-002": [
+     "lead_brake-024",
+     "lead_brake-007",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "cut_in-027": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-002": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "cut_in-023": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-027": [
+     "lead_brake-008",
+     "lead_brake-003",
+     "lead_brake-005"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-003",
+    "curve_lead_brake-001",
+    "curve_lead_brake-006",
+    "cut_in-021",
+    "curve_lead_brake-027",
+    "curve_lead_brake-010",
+    "curve_lead_brake-015",
+    "curve_lead_brake-022"
+   ],
+   "lineage": {
+    "cut_in-003": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-001": [
+     "lead_brake-013",
+     "lead_brake-008",
+     "lead_brake-023"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "cut_in-021": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-027": [
+     "lead_brake-008",
+     "lead_brake-003",
+     "lead_brake-005"
+    ],
+    "curve_lead_brake-010": [
+     "lead_brake-028",
+     "lead_brake-017",
+     "lead_brake-022"
+    ],
+    "curve_lead_brake-015": [
+     "lead_brake-024",
+     "lead_brake-021",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-022": [
+     "lead_brake-029",
+     "lead_brake-021",
+     "lead_brake-017"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-007",
+    "curve_lead_brake-026",
+    "curve_lead_brake-006",
+    "cut_in-020",
+    "curve_lead_brake-020",
+    "curve_lead_brake-007",
+    "curve_lead_brake-004",
+    "curve_lead_brake-029"
+   ],
+   "lineage": {
+    "cut_in-007": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "cut_in-020": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-014",
+    "curve_lead_brake-016",
+    "curve_lead_brake-000",
+    "cut_in-025",
+    "curve_lead_brake-029",
+    "curve_lead_brake-026",
+    "curve_lead_brake-007",
+    "curve_lead_brake-017"
+   ],
+   "lineage": {
+    "cut_in-014": [
+     "lead_brake-018",
+     "lead_brake-007",
+     "lead_brake-004"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-000": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-017"
+    ],
+    "cut_in-025": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-026",
+    "curve_lead_brake-020",
+    "curve_lead_brake-006",
+    "curve_lead_brake-011",
+    "cut_in-011",
+    "curve_lead_brake-022",
+    "cut_in-027",
+    "curve_lead_brake-028"
+   ],
+   "lineage": {
+    "cut_in-026": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ],
+    "cut_in-011": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-022": [
+     "lead_brake-029",
+     "lead_brake-021",
+     "lead_brake-017"
+    ],
+    "cut_in-027": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ]
+   }
+  }
+ ],
+ "random-8": [
+  {
+   "ids": [
+    "cut_in-006",
+    "tight_curve-008",
+    "tight_curve-001",
+    "narrow_s_curve-028",
+    "narrow_s_curve-006",
+    "narrow_s_curve-001",
+    "tight_curve-004",
+    "curve_lead_brake-012"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "cut_in-020",
+    "narrow_s_curve-023",
+    "tight_curve-004",
+    "cut_in-023",
+    "cut_in-007",
+    "tight_curve-017",
+    "curve_lead_brake-026",
+    "narrow_s_curve-028"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "tight_curve-011",
+    "tight_curve-029",
+    "cut_in-004",
+    "cut_in-006",
+    "narrow_s_curve-004",
+    "narrow_s_curve-023",
+    "narrow_s_curve-018",
+    "tight_curve-012"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "tight_curve-027",
+    "cut_in-013",
+    "cut_in-004",
+    "tight_curve-021",
+    "tight_curve-020",
+    "tight_curve-009",
+    "curve_lead_brake-009",
+    "cut_in-001"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "curve_lead_brake-022",
+    "cut_in-028",
+    "tight_curve-009",
+    "cut_in-011",
+    "cut_in-025",
+    "cut_in-017",
+    "cut_in-020",
+    "narrow_s_curve-029"
+   ],
+   "lineage": {}
+  }
+ ],
+ "mined-16": [
+  {
+   "ids": [
+    "cut_in-002",
+    "curve_lead_brake-028",
+    "cut_in-027",
+    "curve_lead_brake-002",
+    "cut_in-023",
+    "curve_lead_brake-027",
+    "curve_lead_brake-020",
+    "curve_lead_brake-006",
+    "curve_lead_brake-001",
+    "curve_lead_brake-004",
+    "tight_curve-011",
+    "curve_lead_brake-005",
+    "cut_in-021",
+    "curve_lead_brake-011",
+    "cut_in-010",
+    "curve_lead_brake-026"
+   ],
+   "lineage": {
+    "cut_in-002": [
+     "lead_brake-024",
+     "lead_brake-007",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "cut_in-027": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-002": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "cut_in-023": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-027": [
+     "lead_brake-008",
+     "lead_brake-003",
+     "lead_brake-005"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-001": [
+     "lead_brake-013",
+     "lead_brake-008",
+     "lead_brake-023"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "tight_curve-011": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "curve_lead_brake-005": [
+     "lead_brake-002",
+     "lead_brake-026",
+     "lead_brake-008"
+    ],
+    "cut_in-021": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ],
+    "cut_in-010": [
+     "lead_brake-007",
+     "lead_brake-018",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-003",
+    "curve_lead_brake-001",
+    "curve_lead_brake-006",
+    "cut_in-021",
+    "curve_lead_brake-027",
+    "curve_lead_brake-010",
+    "curve_lead_brake-015",
+    "curve_lead_brake-022",
+    "curve_lead_brake-029",
+    "cut_in-004",
+    "curve_lead_brake-028",
+    "curve_lead_brake-020",
+    "curve_lead_brake-011",
+    "tight_curve-009",
+    "curve_lead_brake-026",
+    "cut_in-020"
+   ],
+   "lineage": {
+    "cut_in-003": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-001": [
+     "lead_brake-013",
+     "lead_brake-008",
+     "lead_brake-023"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "cut_in-021": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-027": [
+     "lead_brake-008",
+     "lead_brake-003",
+     "lead_brake-005"
+    ],
+    "curve_lead_brake-010": [
+     "lead_brake-028",
+     "lead_brake-017",
+     "lead_brake-022"
+    ],
+    "curve_lead_brake-015": [
+     "lead_brake-024",
+     "lead_brake-021",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-022": [
+     "lead_brake-029",
+     "lead_brake-021",
+     "lead_brake-017"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "cut_in-004": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ],
+    "tight_curve-009": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-005"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "cut_in-020": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-007",
+    "curve_lead_brake-026",
+    "curve_lead_brake-006",
+    "cut_in-020",
+    "curve_lead_brake-020",
+    "curve_lead_brake-007",
+    "curve_lead_brake-004",
+    "curve_lead_brake-029",
+    "cut_in-002",
+    "curve_lead_brake-028",
+    "curve_lead_brake-024",
+    "curve_lead_brake-001",
+    "curve_lead_brake-017",
+    "tight_curve-028",
+    "cut_in-021",
+    "curve_lead_brake-005"
+   ],
+   "lineage": {
+    "cut_in-007": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "cut_in-020": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "cut_in-002": [
+     "lead_brake-024",
+     "lead_brake-007",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "curve_lead_brake-024": [
+     "lead_brake-007",
+     "lead_brake-020",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-001": [
+     "lead_brake-013",
+     "lead_brake-008",
+     "lead_brake-023"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ],
+    "tight_curve-028": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-014"
+    ],
+    "cut_in-021": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-005": [
+     "lead_brake-002",
+     "lead_brake-026",
+     "lead_brake-008"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-014",
+    "curve_lead_brake-016",
+    "curve_lead_brake-000",
+    "cut_in-025",
+    "curve_lead_brake-029",
+    "curve_lead_brake-026",
+    "curve_lead_brake-007",
+    "curve_lead_brake-017",
+    "curve_lead_brake-020",
+    "tight_curve-020",
+    "curve_lead_brake-013",
+    "curve_lead_brake-005",
+    "curve_lead_brake-014",
+    "cut_in-002",
+    "curve_lead_brake-018",
+    "tight_curve-028"
+   ],
+   "lineage": {
+    "cut_in-014": [
+     "lead_brake-018",
+     "lead_brake-007",
+     "lead_brake-004"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-000": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-017"
+    ],
+    "cut_in-025": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "tight_curve-020": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "curve_lead_brake-013": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-013"
+    ],
+    "curve_lead_brake-005": [
+     "lead_brake-002",
+     "lead_brake-026",
+     "lead_brake-008"
+    ],
+    "curve_lead_brake-014": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-021"
+    ],
+    "cut_in-002": [
+     "lead_brake-024",
+     "lead_brake-007",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-018": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-027"
+    ],
+    "tight_curve-028": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-014"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-026",
+    "curve_lead_brake-020",
+    "curve_lead_brake-006",
+    "curve_lead_brake-011",
+    "cut_in-011",
+    "curve_lead_brake-022",
+    "cut_in-027",
+    "curve_lead_brake-028",
+    "curve_lead_brake-016",
+    "curve_lead_brake-009",
+    "curve_lead_brake-007",
+    "curve_lead_brake-026",
+    "curve_lead_brake-004",
+    "curve_lead_brake-012",
+    "tight_curve-005",
+    "narrow_s_curve-021"
+   ],
+   "lineage": {
+    "cut_in-026": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ],
+    "cut_in-011": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-022": [
+     "lead_brake-029",
+     "lead_brake-021",
+     "lead_brake-017"
+    ],
+    "cut_in-027": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-009": [
+     "lead_brake-024",
+     "lead_brake-010",
+     "lead_brake-019"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-012": [
+     "lead_brake-021",
+     "lead_brake-013",
+     "lead_brake-009"
+    ],
+    "tight_curve-005": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ],
+    "narrow_s_curve-021": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-013"
+    ]
+   }
+  }
+ ],
+ "random-16": [
+  {
+   "ids": [
+    "narrow_s_curve-003",
+    "curve_lead_brake-007",
+    "narrow_s_curve-024",
+    "tight_curve-004",
+    "curve_lead_brake-027",
+    "curve_lead_brake-011",
+    "cut_in-002",
+    "cut_in-015",
+    "curve_lead_brake-029",
+    "tight_curve-008",
+    "cut_in-025",
+    "tight_curve-029",
+    "narrow_s_curve-028",
+    "tight_curve-001",
+    "tight_curve-019",
+    "curve_lead_brake-014"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "cut_in-007",
+    "tight_curve-015",
+    "narrow_s_curve-005",
+    "narrow_s_curve-001",
+    "cut_in-012",
+    "cut_in-016",
+    "curve_lead_brake-020",
+    "cut_in-001",
+    "tight_curve-003",
+    "cut_in-025",
+    "narrow_s_curve-000",
+    "cut_in-029",
+    "narrow_s_curve-019",
+    "narrow_s_curve-024",
+    "tight_curve-028",
+    "cut_in-009"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "curve_lead_brake-008",
+    "curve_lead_brake-027",
+    "cut_in-026",
+    "tight_curve-010",
+    "cut_in-003",
+    "cut_in-014",
+    "curve_lead_brake-024",
+    "curve_lead_brake-029",
+    "tight_curve-027",
+    "tight_curve-022",
+    "narrow_s_curve-020",
+    "narrow_s_curve-002",
+    "tight_curve-006",
+    "tight_curve-011",
+    "narrow_s_curve-015",
+    "narrow_s_curve-007"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "narrow_s_curve-001",
+    "curve_lead_brake-012",
+    "tight_curve-010",
+    "narrow_s_curve-026",
+    "tight_curve-019",
+    "cut_in-006",
+    "curve_lead_brake-005",
+    "tight_curve-025",
+    "narrow_s_curve-008",
+    "tight_curve-004",
+    "cut_in-018",
+    "curve_lead_brake-028",
+    "tight_curve-009",
+    "curve_lead_brake-025",
+    "cut_in-029",
+    "narrow_s_curve-020"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "cut_in-017",
+    "cut_in-009",
+    "cut_in-004",
+    "narrow_s_curve-021",
+    "cut_in-020",
+    "tight_curve-020",
+    "cut_in-028",
+    "curve_lead_brake-013",
+    "narrow_s_curve-013",
+    "curve_lead_brake-016",
+    "curve_lead_brake-009",
+    "cut_in-012",
+    "tight_curve-009",
+    "narrow_s_curve-025",
+    "cut_in-027",
+    "narrow_s_curve-002"
+   ],
+   "lineage": {}
+  }
+ ],
+ "mined-32": [
+  {
+   "ids": [
+    "cut_in-002",
+    "curve_lead_brake-028",
+    "cut_in-027",
+    "curve_lead_brake-002",
+    "cut_in-023",
+    "curve_lead_brake-027",
+    "curve_lead_brake-020",
+    "curve_lead_brake-006",
+    "curve_lead_brake-001",
+    "curve_lead_brake-004",
+    "tight_curve-011",
+    "curve_lead_brake-005",
+    "cut_in-021",
+    "curve_lead_brake-011",
+    "cut_in-010",
+    "curve_lead_brake-026",
+    "tight_curve-003",
+    "curve_lead_brake-019",
+    "tight_curve-002",
+    "curve_lead_brake-015",
+    "tight_curve-013",
+    "curve_lead_brake-029",
+    "curve_lead_brake-000",
+    "narrow_s_curve-023",
+    "curve_lead_brake-016",
+    "curve_lead_brake-017",
+    "curve_lead_brake-024",
+    "curve_lead_brake-009",
+    "curve_lead_brake-018",
+    "cut_in-029",
+    "curve_lead_brake-025",
+    "tight_curve-005"
+   ],
+   "lineage": {
+    "cut_in-002": [
+     "lead_brake-024",
+     "lead_brake-007",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "cut_in-027": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-002": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "cut_in-023": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-027": [
+     "lead_brake-008",
+     "lead_brake-003",
+     "lead_brake-005"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-001": [
+     "lead_brake-013",
+     "lead_brake-008",
+     "lead_brake-023"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "tight_curve-011": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "curve_lead_brake-005": [
+     "lead_brake-002",
+     "lead_brake-026",
+     "lead_brake-008"
+    ],
+    "cut_in-021": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ],
+    "cut_in-010": [
+     "lead_brake-007",
+     "lead_brake-018",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "tight_curve-003": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-027"
+    ],
+    "curve_lead_brake-019": [
+     "lead_brake-028",
+     "lead_brake-029",
+     "lead_brake-017"
+    ],
+    "tight_curve-002": [
+     "s_curve-029",
+     "s_curve-023",
+     "s_curve-002"
+    ],
+    "curve_lead_brake-015": [
+     "lead_brake-024",
+     "lead_brake-021",
+     "lead_brake-010"
+    ],
+    "tight_curve-013": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-005"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-000": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-017"
+    ],
+    "narrow_s_curve-023": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-024": [
+     "lead_brake-007",
+     "lead_brake-020",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-009": [
+     "lead_brake-024",
+     "lead_brake-010",
+     "lead_brake-019"
+    ],
+    "curve_lead_brake-018": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-027"
+    ],
+    "cut_in-029": [
+     "lead_brake-014",
+     "lead_brake-024",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-025": [
+     "lead_brake-008",
+     "lead_brake-013",
+     "lead_brake-003"
+    ],
+    "tight_curve-005": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-003",
+    "curve_lead_brake-001",
+    "curve_lead_brake-006",
+    "cut_in-021",
+    "curve_lead_brake-027",
+    "curve_lead_brake-010",
+    "curve_lead_brake-015",
+    "curve_lead_brake-022",
+    "curve_lead_brake-029",
+    "cut_in-004",
+    "curve_lead_brake-028",
+    "curve_lead_brake-020",
+    "curve_lead_brake-011",
+    "tight_curve-009",
+    "curve_lead_brake-026",
+    "cut_in-020",
+    "curve_lead_brake-000",
+    "curve_lead_brake-025",
+    "narrow_s_curve-025",
+    "tight_curve-017",
+    "curve_lead_brake-002",
+    "curve_lead_brake-018",
+    "curve_lead_brake-016",
+    "narrow_s_curve-022",
+    "tight_curve-002",
+    "cut_in-000",
+    "curve_lead_brake-005",
+    "tight_curve-004",
+    "curve_lead_brake-017",
+    "curve_lead_brake-019",
+    "curve_lead_brake-024",
+    "cut_in-015"
+   ],
+   "lineage": {
+    "cut_in-003": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-001": [
+     "lead_brake-013",
+     "lead_brake-008",
+     "lead_brake-023"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "cut_in-021": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-027": [
+     "lead_brake-008",
+     "lead_brake-003",
+     "lead_brake-005"
+    ],
+    "curve_lead_brake-010": [
+     "lead_brake-028",
+     "lead_brake-017",
+     "lead_brake-022"
+    ],
+    "curve_lead_brake-015": [
+     "lead_brake-024",
+     "lead_brake-021",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-022": [
+     "lead_brake-029",
+     "lead_brake-021",
+     "lead_brake-017"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "cut_in-004": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ],
+    "tight_curve-009": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-005"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "cut_in-020": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-000": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-017"
+    ],
+    "curve_lead_brake-025": [
+     "lead_brake-008",
+     "lead_brake-013",
+     "lead_brake-003"
+    ],
+    "narrow_s_curve-025": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-013"
+    ],
+    "tight_curve-017": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "curve_lead_brake-002": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-018": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-027"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "narrow_s_curve-022": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "tight_curve-002": [
+     "s_curve-029",
+     "s_curve-023",
+     "s_curve-002"
+    ],
+    "cut_in-000": [
+     "lead_brake-007",
+     "lead_brake-018",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-005": [
+     "lead_brake-002",
+     "lead_brake-026",
+     "lead_brake-008"
+    ],
+    "tight_curve-004": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-019": [
+     "lead_brake-028",
+     "lead_brake-029",
+     "lead_brake-017"
+    ],
+    "curve_lead_brake-024": [
+     "lead_brake-007",
+     "lead_brake-020",
+     "lead_brake-024"
+    ],
+    "cut_in-015": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-007",
+    "curve_lead_brake-026",
+    "curve_lead_brake-006",
+    "cut_in-020",
+    "curve_lead_brake-020",
+    "curve_lead_brake-007",
+    "curve_lead_brake-004",
+    "curve_lead_brake-029",
+    "cut_in-002",
+    "curve_lead_brake-028",
+    "curve_lead_brake-024",
+    "curve_lead_brake-001",
+    "curve_lead_brake-017",
+    "tight_curve-028",
+    "cut_in-021",
+    "curve_lead_brake-005",
+    "narrow_s_curve-019",
+    "curve_lead_brake-003",
+    "curve_lead_brake-000",
+    "curve_lead_brake-012",
+    "tight_curve-000",
+    "tight_curve-005",
+    "tight_curve-019",
+    "cut_in-016",
+    "curve_lead_brake-002",
+    "cut_in-027",
+    "curve_lead_brake-019",
+    "cut_in-001",
+    "curve_lead_brake-016",
+    "tight_curve-003",
+    "narrow_s_curve-005",
+    "curve_lead_brake-011"
+   ],
+   "lineage": {
+    "cut_in-007": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "cut_in-020": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "cut_in-002": [
+     "lead_brake-024",
+     "lead_brake-007",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "curve_lead_brake-024": [
+     "lead_brake-007",
+     "lead_brake-020",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-001": [
+     "lead_brake-013",
+     "lead_brake-008",
+     "lead_brake-023"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ],
+    "tight_curve-028": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-014"
+    ],
+    "cut_in-021": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-005": [
+     "lead_brake-002",
+     "lead_brake-026",
+     "lead_brake-008"
+    ],
+    "narrow_s_curve-019": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-002"
+    ],
+    "curve_lead_brake-003": [
+     "lead_brake-028",
+     "lead_brake-022",
+     "lead_brake-029"
+    ],
+    "curve_lead_brake-000": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-017"
+    ],
+    "curve_lead_brake-012": [
+     "lead_brake-021",
+     "lead_brake-013",
+     "lead_brake-009"
+    ],
+    "tight_curve-000": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ],
+    "tight_curve-005": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ],
+    "tight_curve-019": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-029"
+    ],
+    "cut_in-016": [
+     "lead_brake-018",
+     "lead_brake-007",
+     "lead_brake-004"
+    ],
+    "curve_lead_brake-002": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "cut_in-027": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-019": [
+     "lead_brake-028",
+     "lead_brake-029",
+     "lead_brake-017"
+    ],
+    "cut_in-001": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "tight_curve-003": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-027"
+    ],
+    "narrow_s_curve-005": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-014",
+    "curve_lead_brake-016",
+    "curve_lead_brake-000",
+    "cut_in-025",
+    "curve_lead_brake-029",
+    "curve_lead_brake-026",
+    "curve_lead_brake-007",
+    "curve_lead_brake-017",
+    "curve_lead_brake-020",
+    "tight_curve-020",
+    "curve_lead_brake-013",
+    "curve_lead_brake-005",
+    "curve_lead_brake-014",
+    "cut_in-002",
+    "curve_lead_brake-018",
+    "tight_curve-028",
+    "cut_in-015",
+    "curve_lead_brake-004",
+    "curve_lead_brake-021",
+    "curve_lead_brake-015",
+    "tight_curve-005",
+    "curve_lead_brake-002",
+    "narrow_s_curve-017",
+    "curve_lead_brake-006",
+    "cut_in-023",
+    "tight_curve-019",
+    "cut_in-001",
+    "curve_lead_brake-019",
+    "narrow_s_curve-009",
+    "cut_in-007",
+    "curve_lead_brake-022",
+    "curve_lead_brake-027"
+   ],
+   "lineage": {
+    "cut_in-014": [
+     "lead_brake-018",
+     "lead_brake-007",
+     "lead_brake-004"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-000": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-017"
+    ],
+    "cut_in-025": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "tight_curve-020": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-018"
+    ],
+    "curve_lead_brake-013": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-013"
+    ],
+    "curve_lead_brake-005": [
+     "lead_brake-002",
+     "lead_brake-026",
+     "lead_brake-008"
+    ],
+    "curve_lead_brake-014": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-021"
+    ],
+    "cut_in-002": [
+     "lead_brake-024",
+     "lead_brake-007",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-018": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-027"
+    ],
+    "tight_curve-028": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-014"
+    ],
+    "cut_in-015": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-021": [
+     "lead_brake-013",
+     "lead_brake-023",
+     "lead_brake-008"
+    ],
+    "curve_lead_brake-015": [
+     "lead_brake-024",
+     "lead_brake-021",
+     "lead_brake-010"
+    ],
+    "tight_curve-005": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ],
+    "curve_lead_brake-002": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "narrow_s_curve-017": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-013"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "cut_in-023": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "tight_curve-019": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-029"
+    ],
+    "cut_in-001": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-019": [
+     "lead_brake-028",
+     "lead_brake-029",
+     "lead_brake-017"
+    ],
+    "narrow_s_curve-009": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-005"
+    ],
+    "cut_in-007": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-022": [
+     "lead_brake-029",
+     "lead_brake-021",
+     "lead_brake-017"
+    ],
+    "curve_lead_brake-027": [
+     "lead_brake-008",
+     "lead_brake-003",
+     "lead_brake-005"
+    ]
+   }
+  },
+  {
+   "ids": [
+    "cut_in-026",
+    "curve_lead_brake-020",
+    "curve_lead_brake-006",
+    "curve_lead_brake-011",
+    "cut_in-011",
+    "curve_lead_brake-022",
+    "cut_in-027",
+    "curve_lead_brake-028",
+    "curve_lead_brake-016",
+    "curve_lead_brake-009",
+    "curve_lead_brake-007",
+    "curve_lead_brake-026",
+    "curve_lead_brake-004",
+    "curve_lead_brake-012",
+    "tight_curve-005",
+    "narrow_s_curve-021",
+    "curve_lead_brake-019",
+    "cut_in-005",
+    "curve_lead_brake-000",
+    "tight_curve-029",
+    "cut_in-010",
+    "curve_lead_brake-021",
+    "curve_lead_brake-018",
+    "narrow_s_curve-026",
+    "curve_lead_brake-024",
+    "curve_lead_brake-017",
+    "curve_lead_brake-029",
+    "curve_lead_brake-002",
+    "tight_curve-004",
+    "cut_in-003",
+    "curve_lead_brake-010",
+    "cut_in-025"
+   ],
+   "lineage": {
+    "cut_in-026": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-020": [
+     "lead_brake-002",
+     "lead_brake-008",
+     "lead_brake-026"
+    ],
+    "curve_lead_brake-006": [
+     "lead_brake-029",
+     "lead_brake-027",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-011": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-023"
+    ],
+    "cut_in-011": [
+     "lead_brake-014",
+     "lead_brake-006",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-022": [
+     "lead_brake-029",
+     "lead_brake-021",
+     "lead_brake-017"
+    ],
+    "cut_in-027": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-028": [
+     "lead_brake-029",
+     "lead_brake-017",
+     "lead_brake-027"
+    ],
+    "curve_lead_brake-016": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-009": [
+     "lead_brake-024",
+     "lead_brake-010",
+     "lead_brake-019"
+    ],
+    "curve_lead_brake-007": [
+     "lead_brake-008",
+     "lead_brake-002",
+     "lead_brake-003"
+    ],
+    "curve_lead_brake-026": [
+     "lead_brake-020",
+     "lead_brake-007",
+     "lead_brake-015"
+    ],
+    "curve_lead_brake-004": [
+     "lead_brake-028",
+     "lead_brake-014",
+     "lead_brake-006"
+    ],
+    "curve_lead_brake-012": [
+     "lead_brake-021",
+     "lead_brake-013",
+     "lead_brake-009"
+    ],
+    "tight_curve-005": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ],
+    "narrow_s_curve-021": [
+     "s_curve-002",
+     "s_curve-023",
+     "s_curve-013"
+    ],
+    "curve_lead_brake-019": [
+     "lead_brake-028",
+     "lead_brake-029",
+     "lead_brake-017"
+    ],
+    "cut_in-005": [
+     "lead_brake-024",
+     "lead_brake-014",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-000": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-017"
+    ],
+    "tight_curve-029": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-014"
+    ],
+    "cut_in-010": [
+     "lead_brake-007",
+     "lead_brake-018",
+     "lead_brake-020"
+    ],
+    "curve_lead_brake-021": [
+     "lead_brake-013",
+     "lead_brake-023",
+     "lead_brake-008"
+    ],
+    "curve_lead_brake-018": [
+     "lead_brake-029",
+     "lead_brake-028",
+     "lead_brake-027"
+    ],
+    "narrow_s_curve-026": [
+     "s_curve-029",
+     "s_curve-018",
+     "s_curve-005"
+    ],
+    "curve_lead_brake-024": [
+     "lead_brake-007",
+     "lead_brake-020",
+     "lead_brake-024"
+    ],
+    "curve_lead_brake-017": [
+     "lead_brake-017",
+     "lead_brake-021",
+     "lead_brake-028"
+    ],
+    "curve_lead_brake-029": [
+     "lead_brake-021",
+     "lead_brake-009",
+     "lead_brake-010"
+    ],
+    "curve_lead_brake-002": [
+     "lead_brake-007",
+     "lead_brake-024",
+     "lead_brake-020"
+    ],
+    "tight_curve-004": [
+     "s_curve-029",
+     "s_curve-005",
+     "s_curve-008"
+    ],
+    "cut_in-003": [
+     "lead_brake-018",
+     "lead_brake-004",
+     "lead_brake-007"
+    ],
+    "curve_lead_brake-010": [
+     "lead_brake-028",
+     "lead_brake-017",
+     "lead_brake-022"
+    ],
+    "cut_in-025": [
+     "lead_brake-014",
+     "lead_brake-010",
+     "lead_brake-006"
+    ]
+   }
+  }
+ ],
+ "random-32": [
+  {
+   "ids": [
+    "cut_in-010",
+    "narrow_s_curve-027",
+    "narrow_s_curve-000",
+    "tight_curve-007",
+    "tight_curve-001",
+    "curve_lead_brake-006",
+    "narrow_s_curve-029",
+    "tight_curve-024",
+    "cut_in-009",
+    "cut_in-028",
+    "curve_lead_brake-001",
+    "tight_curve-003",
+    "cut_in-026",
+    "narrow_s_curve-014",
+    "cut_in-015",
+    "tight_curve-028",
+    "cut_in-001",
+    "tight_curve-000",
+    "cut_in-007",
+    "curve_lead_brake-029",
+    "cut_in-025",
+    "curve_lead_brake-014",
+    "curve_lead_brake-026",
+    "curve_lead_brake-019",
+    "curve_lead_brake-004",
+    "narrow_s_curve-020",
+    "tight_curve-017",
+    "tight_curve-021",
+    "cut_in-013",
+    "curve_lead_brake-015",
+    "curve_lead_brake-003",
+    "narrow_s_curve-016"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "tight_curve-024",
+    "curve_lead_brake-000",
+    "cut_in-013",
+    "cut_in-001",
+    "cut_in-028",
+    "cut_in-002",
+    "cut_in-025",
+    "curve_lead_brake-026",
+    "cut_in-003",
+    "tight_curve-027",
+    "cut_in-004",
+    "curve_lead_brake-027",
+    "tight_curve-009",
+    "curve_lead_brake-022",
+    "tight_curve-026",
+    "tight_curve-014",
+    "curve_lead_brake-007",
+    "curve_lead_brake-008",
+    "tight_curve-002",
+    "narrow_s_curve-000",
+    "narrow_s_curve-022",
+    "narrow_s_curve-016",
+    "narrow_s_curve-028",
+    "narrow_s_curve-012",
+    "curve_lead_brake-018",
+    "curve_lead_brake-024",
+    "tight_curve-013",
+    "narrow_s_curve-007",
+    "narrow_s_curve-005",
+    "cut_in-009",
+    "tight_curve-003",
+    "narrow_s_curve-024"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "narrow_s_curve-019",
+    "tight_curve-028",
+    "cut_in-000",
+    "tight_curve-027",
+    "narrow_s_curve-002",
+    "curve_lead_brake-012",
+    "curve_lead_brake-014",
+    "narrow_s_curve-028",
+    "narrow_s_curve-012",
+    "narrow_s_curve-003",
+    "curve_lead_brake-016",
+    "tight_curve-009",
+    "tight_curve-021",
+    "curve_lead_brake-001",
+    "curve_lead_brake-024",
+    "tight_curve-029",
+    "cut_in-020",
+    "tight_curve-005",
+    "cut_in-014",
+    "tight_curve-019",
+    "tight_curve-026",
+    "cut_in-010",
+    "tight_curve-016",
+    "tight_curve-008",
+    "narrow_s_curve-008",
+    "tight_curve-023",
+    "curve_lead_brake-017",
+    "curve_lead_brake-020",
+    "curve_lead_brake-011",
+    "curve_lead_brake-018",
+    "curve_lead_brake-015",
+    "cut_in-027"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "cut_in-002",
+    "cut_in-000",
+    "narrow_s_curve-002",
+    "narrow_s_curve-013",
+    "curve_lead_brake-002",
+    "tight_curve-027",
+    "cut_in-013",
+    "tight_curve-021",
+    "curve_lead_brake-022",
+    "cut_in-019",
+    "cut_in-014",
+    "curve_lead_brake-017",
+    "narrow_s_curve-017",
+    "curve_lead_brake-027",
+    "narrow_s_curve-018",
+    "narrow_s_curve-027",
+    "tight_curve-012",
+    "tight_curve-016",
+    "curve_lead_brake-015",
+    "curve_lead_brake-016",
+    "narrow_s_curve-019",
+    "tight_curve-007",
+    "curve_lead_brake-012",
+    "cut_in-024",
+    "narrow_s_curve-025",
+    "cut_in-008",
+    "curve_lead_brake-008",
+    "tight_curve-020",
+    "cut_in-016",
+    "tight_curve-009",
+    "tight_curve-003",
+    "cut_in-023"
+   ],
+   "lineage": {}
+  },
+  {
+   "ids": [
+    "narrow_s_curve-029",
+    "tight_curve-023",
+    "narrow_s_curve-006",
+    "curve_lead_brake-004",
+    "narrow_s_curve-007",
+    "cut_in-026",
+    "tight_curve-006",
+    "cut_in-012",
+    "cut_in-011",
+    "narrow_s_curve-017",
+    "cut_in-001",
+    "tight_curve-028",
+    "curve_lead_brake-021",
+    "cut_in-002",
+    "narrow_s_curve-014",
+    "cut_in-009",
+    "curve_lead_brake-020",
+    "curve_lead_brake-024",
+    "narrow_s_curve-019",
+    "cut_in-022",
+    "narrow_s_curve-028",
+    "narrow_s_curve-013",
+    "cut_in-025",
+    "tight_curve-007",
+    "tight_curve-018",
+    "curve_lead_brake-003",
+    "curve_lead_brake-027",
+    "curve_lead_brake-010",
+    "tight_curve-016",
+    "cut_in-015",
+    "cut_in-020",
+    "narrow_s_curve-023"
+   ],
+   "lineage": {}
+  }
+ ]
+}

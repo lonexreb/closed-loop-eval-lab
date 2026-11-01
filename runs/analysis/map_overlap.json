@@ -1,0 +1,27 @@
+{
+  "md_CCS": {
+    "kind": "dev_vs_train",
+    "mean": 0.503,
+    "max": 0.688
+  },
+  "md_CSC": {
+    "kind": "baseline_train_vs_other_train",
+    "mean": 0.192,
+    "max": 0.295
+  },
+  "md_CSCC": {
+    "kind": "test_vs_train",
+    "mean": 0.384,
+    "max": 0.638
+  },
+  "md_SCCS": {
+    "kind": "test_vs_train",
+    "mean": 0.496,
+    "max": 0.636
+  },
+  "md_SCS": {
+    "kind": "baseline_train_vs_other_train",
+    "mean": 0.251,
+    "max": 0.4
+  }
+}

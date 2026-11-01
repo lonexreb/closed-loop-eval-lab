@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ridge_state_clean_d1",
+    "lambda": 0.01,
+    "dev_ade_m": 0.973412305184638,
+    "rows": 15401
+  },
+  {
+    "name": "ridge_state_clean_d2",
+    "lambda": 0.01,
+    "dev_ade_m": 0.6924476824710089,
+    "rows": 15401
+  },
+  {
+    "name": "ridge_state_noisy_d1",
+    "lambda": 0.01,
+    "dev_ade_m": 1.399963536783514,
+    "rows": 18474
+  },
+  {
+    "name": "ridge_state_noisy_d2",
+    "lambda": 0.01,
+    "dev_ade_m": 0.9744496293549294,
+    "rows": 18474
+  },
+  {
+    "name": "ridge_hist_clean_d1",
+    "lambda": 0.0001,
+    "dev_ade_m": 0.6954312704388139,
+    "rows": 15401
+  },
+  {
+    "name": "ridge_hist_clean_d2",
+    "lambda": 0.01,
+    "dev_ade_m": 0.62473216686062,
+    "rows": 15401
+  },
+  {
+    "name": "ridge_hist_noisy_d1",
+    "lambda": 0.0001,
+    "dev_ade_m": 1.3651530280588298,
+    "rows": 18474
+  },
+  {
+    "name": "ridge_hist_noisy_d2",
+    "lambda": 0.01,
+    "dev_ade_m": 1.08454528383624,
+    "rows": 18474
+  }
+]

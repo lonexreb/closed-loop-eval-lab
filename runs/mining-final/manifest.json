@@ -1,0 +1,53 @@
+{
+  "artifacts": [
+    {
+      "path": "mining_results.json",
+      "sha256": "81b8dec80123cd5d093d9b59f11f0e741e8c08f71d3e6a85dfb3e5b99240e70a"
+    },
+    {
+      "path": "outcomes.jsonl.gz",
+      "sha256": "2e48b48985473593d8b634acb5695987ed1d4c755d5a4046a22ee0a476351c05"
+    },
+    {
+      "path": "packs.json",
+      "sha256": "7235d8775387301b628e25160835b2aa3312bb99664524b2b9347a2e8bd01bbc"
+    }
+  ],
+  "backend": "kinematic_fixture",
+  "code_revision": "354332d669281d8e2335582c34d1fa7a3700ea7a",
+  "command": [
+    "src/eval_lab/mining.py"
+  ],
+  "config_sha256": "472e3dc54737d9b23c4ea107444aa2098f33759c6fd7649e363f7755de0fa5cb",
+  "data_sha256": "990aa724c881dcb3d1f580b9a2e4b80d5ea21e60048e717f3fe4ee6ac3a330f1",
+  "exit_code": 0,
+  "finished_at": "2026-10-31T23:57:51+00:00",
+  "hardware": {
+    "accelerator": "none used; CPU only",
+    "cpu_count": 18,
+    "machine": "arm64",
+    "python": "3.11.15",
+    "system": "Darwin"
+  },
+  "kind": "study",
+  "limitations": [
+    "Regressions are hand-built, on the toy fixture only."
+  ],
+  "lockfile_sha256": "d4d511b8b7af9cd133c60722cf26e29e677274d31ad5dc89de6b741cee6496d5",
+  "run_id": "mining-final",
+  "schema_version": "1.0",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "split_id": "split-009146a0aef3",
+  "started_at": "2026-10-31T23:57:36+00:00",
+  "status": "SUCCEEDED",
+  "versions": {
+    "metadrive-simulator": "0.4.3",
+    "numpy": "2.4.6",
+    "panda3d": "1.10.13",
+    "scipy": "1.17.1"
+  }
+}

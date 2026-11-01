@@ -1,0 +1,5 @@
+metadrive dev: train=24 dev=12 eval=12 split=dev
+fit 8 models on 7718 clean rows in 14.6s
+open loop: 144 rows in 3.3s
+closed loop: 432 episodes in 60.2s
+mechanism control: 144 episodes in 19.3s

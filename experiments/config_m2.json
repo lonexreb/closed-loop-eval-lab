@@ -1,0 +1,4 @@
+{
+  "kinematic": {"per_family": 30, "manifest_seed": 20261101, "eval_seeds": [0, 1, 2, 3, 4]},
+  "metadrive": {"per_family": 12, "eval_seeds": [0, 1, 2]}
+}
